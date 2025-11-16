@@ -16,3 +16,5 @@ I added something via the ssh again
 SSH final : edit in the ssh
 
 CLI final : edit via the cli
+
+CLI : this is a new message in the CLI (edit this is actually still in the ssh example)
