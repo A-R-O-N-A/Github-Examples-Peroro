@@ -14,3 +14,5 @@ This has been added via the cli tool
 I added something via the ssh again
 
 SSH final : edit in the ssh
+
+CLI final : edit via the cli
