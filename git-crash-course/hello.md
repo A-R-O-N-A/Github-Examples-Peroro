@@ -20,3 +20,7 @@ CLI final : edit via the cli
 CLI : this is a new message in the CLI (edit this is actually still in the ssh example)
 
 This is a message from the CLI
+
+## HTTPS additions
+
+This is added from the HTTPS cloned version
