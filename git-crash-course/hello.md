@@ -28,3 +28,7 @@ This is added from the HTTPS cloned version
 ## GH CLI additions
 
 This is added via the gh cli tool
+
+## SSH additions
+
+This has been added via the SSH cloned version
