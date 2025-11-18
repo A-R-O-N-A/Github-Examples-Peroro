@@ -16,10 +16,9 @@ This has been added via the SSH cloned version
 
 ## MAIN additions (edditted in dev branch)
 
-the following are additions in the DEV branch
+_deleted a couple of lines in dev_
 
-+ this line too had been changed via dev
-+ this line has been changed bia dev
+the following are additions in the DEV branch
 
 ## DEV section mad below
 
