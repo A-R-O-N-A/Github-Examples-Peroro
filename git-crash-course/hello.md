@@ -14,9 +14,18 @@ This is added via the gh cli tool
 
 This has been added via the SSH cloned version
 
+<<<<<<< HEAD
 ## DEV additions
 
 These are additions to the DEV
 
 + Another addition to the dev branch
 + Hello this is the DEV branch
+=======
+## MAIN additions
+
+the following are additions in the MAIN branch
+
++ A new line added to the main branch
++ A new addition to the main branch
+>>>>>>> main
