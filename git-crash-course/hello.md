@@ -14,9 +14,10 @@ This is added via the gh cli tool
 
 This has been added via the SSH cloned version
 
-## MAIN additions
+## MAIN additions (edditted in dev branch)
 
-the following are additions in the MAIN branch
+the following are additions in the DEV branch
 
-+ A new line added to the main branch
-+ A new addition to the main branch
++ this line too had been changed via dev
++ this line has been changed bia dev
+
