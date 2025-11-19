@@ -22,4 +22,4 @@ the following are additions in the DEV branch
 
 ## DEV section mad below
 
-+ Change this line later in DEV
++ This line has been successfully changed in dev branch
