@@ -24,5 +24,5 @@ the following are additions in the DEV branch
 
 + This line has been successfully changed in dev branch
 
-+ This like is to be stashed (MAIN)
++ This like is to be stashed (DEV)
 
