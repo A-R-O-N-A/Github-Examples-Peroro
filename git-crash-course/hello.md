@@ -23,3 +23,5 @@ the following are additions in the DEV branch
 ## DEV section mad below
 
 + This line has been successfully changed in dev branch
+
++ This line is in stash
