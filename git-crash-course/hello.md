@@ -24,5 +24,4 @@ the following are additions in the DEV branch
 
 + This line has been successfully changed in dev branch
 
-+ This line is not yet committed (NOW COMMITTED)
-
++ MAIN - stash this change
